@@ -8,4 +8,6 @@ You can:
 - Delete all the Frames in the Animation
 - Run the Animation to show the list of Frame details one after another at 1 second intervals (code supplied)
 - Quit
+##  Screenshot of Program
+![Page 1](https://raw.githubusercontent.com/mai00015/Blog-Engine/master/src/Assignment2/wwwroot/image/1.JPG)  
 
