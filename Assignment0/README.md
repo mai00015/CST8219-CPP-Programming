@@ -10,4 +10,5 @@ You can:
 - Quit
 ##  Screenshot of Program
 ![Page 1](https://raw.githubusercontent.com/mai00015/Blog-Engine/master/src/Assignment2/wwwroot/image/1.JPG)  
-
+![Page 2](https://raw.githubusercontent.com/mai00015/Blog-Engine/master/src/Assignment2/wwwroot/image/1.JPG)  
+![Page 3](https://raw.githubusercontent.com/mai00015/Blog-Engine/master/src/Assignment2/wwwroot/image/1.JPG)  
