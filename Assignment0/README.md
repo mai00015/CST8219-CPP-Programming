@@ -1,8 +1,11 @@
-# CST8219 - C++ Programming
+# Animation Project in C
 
-##  Course Description
-Learn C++ by building on the concepts of memory management and object-oriented programming studied in other
-languages in previous courses. Used as a language of choice for highly efficient application development particularly
-on the Windows platform, the C++ language expands the C paradigm to include encapsulation, inheritance and
-polymorphism. In addition, standard libraries, such as the Standard Template Library is introduced as ready-made
-frameworks for application development.
+##  Description
+The Animation is a series of Frames held in a forward list. When the list runs it displays the details of each
+Frame at intervals of 1 second using the system clock (you are given the code for this).
+You can:
+- Add a new Frame to the Animation at a position selected by the user
+- Delete all the Frames in the Animation
+- Run the Animation to show the list of Frame details one after another at 1 second intervals (code supplied)
+- Quit
+
