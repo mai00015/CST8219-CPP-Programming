@@ -9,6 +9,6 @@ You can:
 - Run the Animation to show the list of Frame details one after another at 1 second intervals (code supplied)
 - Quit
 ##  Screenshot of Program
-![Page 1](https://raw.githubusercontent.com/mai00015/Blog-Engine/master/src/Assignment2/wwwroot/image/1.JPG)  
-![Page 2](https://raw.githubusercontent.com/mai00015/Blog-Engine/master/src/Assignment2/wwwroot/image/1.JPG)  
-![Page 3](https://raw.githubusercontent.com/mai00015/Blog-Engine/master/src/Assignment2/wwwroot/image/1.JPG)  
+![Page 1](https://raw.githubusercontent.com/mai00015/CST8219-CPP-Programming/master/Assignment0/Assignment0/1.JPG)  
+![Page 2](https://raw.githubusercontent.com/mai00015/CST8219-CPP-Programming/master/Assignment0/Assignment0/2.JPG)  
+![Page 3](https://raw.githubusercontent.com/mai00015/CST8219-CPP-Programming/master/Assignment0/Assignment0/3.JPG)  
